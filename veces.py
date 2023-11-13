@@ -1,9 +1,9 @@
 
 def promedio():
-    nota=1
+    nota=10
     laboratorio=6
     examen=10
-    prom=(nota+laboratorio+examen)/3
+    prom=(nota+laboratorio+examen)/2
     return prom
 notaF=promedio()
 print(notaF)
